@@ -4,15 +4,9 @@ const pepperoni = "Pepperoni Pizza"
 
 const pizzaPrice = 80
 
-//Put your Javscript code here:
-
 const pizzas = ["vegetarian", "hawaiian", "pepperoni"]
 
-//1.2 Greeting the customer
-
 alert(`Hey! Happy to serve your pizza. On our menu we have ${vegetarian}, ${hawaiian} and ${pepperoni}`)
-
-//2.3 Ask the user which pizza they want, and how many
 
 let orderName = prompt("Enter the name of the pizza you want to order today:");
 
